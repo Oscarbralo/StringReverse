@@ -1,0 +1,6 @@
+c:\users\fiercepotato\documents\visual studio 2012\Projects\StringReverse\StringReverse\bin\Debug\StringReverse.exe.config
+c:\users\fiercepotato\documents\visual studio 2012\Projects\StringReverse\StringReverse\bin\Debug\StringReverse.exe
+c:\users\fiercepotato\documents\visual studio 2012\Projects\StringReverse\StringReverse\bin\Debug\StringReverse.pdb
+c:\users\fiercepotato\documents\visual studio 2012\Projects\StringReverse\StringReverse\obj\Debug\StringReverse.csprojResolveAssemblyReference.cache
+c:\users\fiercepotato\documents\visual studio 2012\Projects\StringReverse\StringReverse\obj\Debug\StringReverse.exe
+c:\users\fiercepotato\documents\visual studio 2012\Projects\StringReverse\StringReverse\obj\Debug\StringReverse.pdb
